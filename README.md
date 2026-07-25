@@ -3,7 +3,7 @@
 A machine learning project that classifies Iris flowers into **Setosa**, **Versicolor**, or **Virginica** based on sepal and petal measurements — built with exploratory data analysis, feature scaling, and hyperparameter-tuned classifiers (KNN & SVM).
 
 
-🔗 **Live Demo:** [Add your deployed demo link here](https://your-demo-link.com) *(e.g. Streamlit Cloud / Hugging Face Spaces / Render)*
+🔗 **Live Demo:** https://hhjqdbqu5wpleuecxky3ou.streamlit.app/
 
 ---
 
@@ -99,10 +99,3 @@ pip install pandas numpy scikit-learn seaborn matplotlib joblib
 ├── Iris_DataSet.pkl     # Final trained model (GridSearchCV + SVM)
 ├── Columns.pkl          # Feature column order
 └── README.md
-```
-
----
-
-## 📄 License
-
-Add your license here (e.g. MIT).
